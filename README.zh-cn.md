@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md) 
+简体中文 | [English](./README.md) 
 # vuejs-interview-questions
 List of 300 VueJS Interview Questions
 
